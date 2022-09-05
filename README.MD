@@ -1,6 +1,11 @@
 # clickhousehttp
 
 Библиотека - http клиент для выполнения запросов в click-house
+## Установка 
+
+```
+opm install clickhousehttp
+```
 
 Примеры:
 
